@@ -12,4 +12,5 @@ url 'https://discord.gg/z65sDx8X4x'
 
 files {
     'vyz.cfg',
+    'init.lua'
 }
